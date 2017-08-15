@@ -1,3 +1,3 @@
 # jessfractal
 Mi primer repositorio
-Sr modifico el archivo
+Se modifico el archivo
